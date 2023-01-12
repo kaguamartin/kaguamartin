@@ -2,7 +2,7 @@
 - 👀 I’m interested in flutter & Dart 
 - 🌱 I’m currently learning more of flutter
 - 💞️ I’m looking to collaborate on flutter and related stuff
-- 📫 How to reach me ______gmail________kaguamartin07@gmail.com
+- 📫 How to reach me  kaguamartin07@gmail.com
 - 
 
 <!---
